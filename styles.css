@@ -34,13 +34,20 @@ body {
     padding: 8px;
 }
 
-table {
+.subject-info-table {
     width: 100%;
     border-collapse: collapse;
 }
 
-th, td {
+.subject-info-table th, .subject-info-table td {
     border: 1px solid black;
     padding: 8px;
-    text-align: left;
+}
+
+.subject-info-table th {
+    background-color: #c2bcff;
+}
+
+.subject-info-table td {
+    vertical-align: top;
 }
