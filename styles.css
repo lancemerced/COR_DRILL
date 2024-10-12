@@ -2,6 +2,22 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.certificate-header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.certificate-header img {
+    width: 100px;
+    height: auto;
+    float: left;
+}
+
+.certificate-header strong {
+    color: red;
+    display: block;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
