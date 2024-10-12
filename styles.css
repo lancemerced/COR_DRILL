@@ -18,6 +18,22 @@ body {
     display: block;
 }
 
+.student-gen-info-table {
+    margin-top: 10px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.student-gen-info-table th {
+    background-color: #c2bcff;
+    border: 2px solid black;
+    padding: 8px;
+}
+
+.student-gen-info-table td {
+    padding: 8px;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
